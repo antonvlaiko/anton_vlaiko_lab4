@@ -1,0 +1,14 @@
+F:\2 semestr\OP\Lab4\Lab4zavd1\bin\Debug\netcoreapp3.1\Lab4zavd1.exe
+F:\2 semestr\OP\Lab4\Lab4zavd1\bin\Debug\netcoreapp3.1\Lab4zavd1.deps.json
+F:\2 semestr\OP\Lab4\Lab4zavd1\bin\Debug\netcoreapp3.1\Lab4zavd1.runtimeconfig.json
+F:\2 semestr\OP\Lab4\Lab4zavd1\bin\Debug\netcoreapp3.1\Lab4zavd1.runtimeconfig.dev.json
+F:\2 semestr\OP\Lab4\Lab4zavd1\bin\Debug\netcoreapp3.1\Lab4zavd1.dll
+F:\2 semestr\OP\Lab4\Lab4zavd1\bin\Debug\netcoreapp3.1\Lab4zavd1.pdb
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.csproj.AssemblyReference.cache
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.GeneratedMSBuildEditorConfig.editorconfig
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.AssemblyInfoInputs.cache
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.AssemblyInfo.cs
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.csproj.CoreCompileInputs.cache
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.dll
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.pdb
+F:\2 semestr\OP\Lab4\Lab4zavd1\obj\Debug\netcoreapp3.1\Lab4zavd1.genruntimeconfig.cache
